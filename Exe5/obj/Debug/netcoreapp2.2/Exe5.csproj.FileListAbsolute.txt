@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\bin\Debug\netcoreapp2.2\Exe5.deps.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\bin\Debug\netcoreapp2.2\Exe5.runtimeconfig.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\bin\Debug\netcoreapp2.2\Exe5.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\bin\Debug\netcoreapp2.2\Exe5.dll
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\bin\Debug\netcoreapp2.2\Exe5.pdb
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.dll
+C:\Users\Matheus\Desktop\Projetos\ListaDeExercicios2\Exe5\obj\Debug\netcoreapp2.2\Exe5.pdb
