@@ -1,3 +1,3 @@
 # Exercicios-Logica
 Exercicios de lógica
-Logica de programação utilizando C#
+Logica de programação utilizando a linguagem C#
